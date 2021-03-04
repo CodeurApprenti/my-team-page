@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{my-team-page-nu-lac.vercel.app}">
+    <a href="https://my-team-page-nu-lac.vercel.app/">
       Demo
     </a>
   </h3>
